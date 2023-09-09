@@ -1,0 +1,24 @@
+#lnav{
+    width: 100%;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+#lnavr{
+    display: flex;
+    align-items: center;
+}
+#lnav a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight:500;
+    font-size: 25px;
+    color: aliceblue;
+}
+#lnavr i{
+    color:  rgb(73, 109, 216);
+    font-size: 50px;
+    padding-right: 10px;
+
+}
